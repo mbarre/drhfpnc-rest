@@ -5,7 +5,7 @@
 
 	<groupId>io.github.mbarre</groupId>
 	<artifactId>drhfpnc-rest</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<packaging>jar</packaging>
 
 	<name>drhfpnc-rest</name>
